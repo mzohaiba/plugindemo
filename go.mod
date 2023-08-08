@@ -1,3 +1,3 @@
-module github.com/traefik/plugindemo
+module github.com/mzohaiba/plugindemo
 
 go 1.19
