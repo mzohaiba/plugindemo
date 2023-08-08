@@ -6,7 +6,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/traefik/plugindemo"
+	"github.com/mzohaiba/plugindemo"
 )
 
 func TestDemo(t *testing.T) {
